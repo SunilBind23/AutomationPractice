@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-24T12:00:05 IST" name="SampleSuite" finished-at="2025-05-24T12:02:06 IST" duration-ms="121393">
+    <groups>
+    </groups>
+    <test started-at="2025-05-24T12:00:05 IST" name="SampleTest" finished-at="2025-05-24T12:02:06 IST" duration-ms="121393">
+      <class name="automationPractice.FindBrokenLink">
+        <test-method signature="checkBrokenLinks()[pri:0, instance:automationPractice.FindBrokenLink@644baf4a]" started-at="2025-05-24T12:00:05 IST" name="checkBrokenLinks" finished-at="2025-05-24T12:02:06 IST" duration-ms="121307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBrokenLinks -->
+      </class> <!-- automationPractice.FindBrokenLink -->
+    </test> <!-- SampleTest -->
+  </suite> <!-- SampleSuite -->
+</testng-results>
